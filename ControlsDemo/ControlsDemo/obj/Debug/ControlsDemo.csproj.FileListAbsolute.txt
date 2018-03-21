@@ -1,0 +1,15 @@
+C:\Visual Studio\WPF\ControlsDemo\ControlsDemo\bin\Debug\ControlsDemo.exe.config
+C:\Visual Studio\WPF\ControlsDemo\ControlsDemo\bin\Debug\ControlsDemo.exe
+C:\Visual Studio\WPF\ControlsDemo\ControlsDemo\bin\Debug\ControlsDemo.pdb
+C:\Visual Studio\WPF\ControlsDemo\ControlsDemo\obj\Debug\ControlsDemo.csprojResolveAssemblyReference.cache
+C:\Visual Studio\WPF\ControlsDemo\ControlsDemo\obj\Debug\MainWindow.g.cs
+C:\Visual Studio\WPF\ControlsDemo\ControlsDemo\obj\Debug\App.g.cs
+C:\Visual Studio\WPF\ControlsDemo\ControlsDemo\obj\Debug\ControlsDemo_MarkupCompile.cache
+C:\Visual Studio\WPF\ControlsDemo\ControlsDemo\obj\Debug\ControlsDemo_MarkupCompile.lref
+C:\Visual Studio\WPF\ControlsDemo\ControlsDemo\obj\Debug\MainWindow.baml
+C:\Visual Studio\WPF\ControlsDemo\ControlsDemo\obj\Debug\ControlsDemo.g.resources
+C:\Visual Studio\WPF\ControlsDemo\ControlsDemo\obj\Debug\ControlsDemo.Properties.Resources.resources
+C:\Visual Studio\WPF\ControlsDemo\ControlsDemo\obj\Debug\ControlsDemo.csproj.GenerateResource.cache
+C:\Visual Studio\WPF\ControlsDemo\ControlsDemo\obj\Debug\ControlsDemo.csproj.CoreCompileInputs.cache
+C:\Visual Studio\WPF\ControlsDemo\ControlsDemo\obj\Debug\ControlsDemo.exe
+C:\Visual Studio\WPF\ControlsDemo\ControlsDemo\obj\Debug\ControlsDemo.pdb
