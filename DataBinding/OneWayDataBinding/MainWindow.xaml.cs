@@ -20,10 +20,22 @@ namespace OneWayDataBinding
     /// </summary>
     public partial class MainWindow : Window
     {
+        private Employee emp;
         public MainWindow()
         {
             InitializeComponent();
-            DataContext = Employee.GetEmployee();
+            emp = new Employee()
+            {
+                Name ="Joe",
+                Title = "QA"
+            };
+            DataContext = emp;
+        }
+
+        private void ButtonBase_OnClick(object sender, RoutedEventArgs e)
+        {
+            emp.Name = "Ross";
+            emp.Title = "Developer";
         }
     }
 }

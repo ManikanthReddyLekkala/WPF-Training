@@ -18,6 +18,7 @@
                 <TextBlock Margin="5,0,0,0"
                            Text="{Binding Title}"/>
             </StackPanel>
+            <Button Content="Change" Click="ButtonBase_OnClick" />
         </StackPanel>
     </Grid>
 </Window>
