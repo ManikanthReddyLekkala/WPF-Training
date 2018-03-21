@@ -1,0 +1,15 @@
+C:\Visual Studio\WPF\PanelDemo\PanelDemo\bin\Debug\PanelDemo.exe.config
+C:\Visual Studio\WPF\PanelDemo\PanelDemo\bin\Debug\PanelDemo.exe
+C:\Visual Studio\WPF\PanelDemo\PanelDemo\bin\Debug\PanelDemo.pdb
+C:\Visual Studio\WPF\PanelDemo\PanelDemo\obj\Debug\PanelDemo.csprojResolveAssemblyReference.cache
+C:\Visual Studio\WPF\PanelDemo\PanelDemo\obj\Debug\MainWindow.g.cs
+C:\Visual Studio\WPF\PanelDemo\PanelDemo\obj\Debug\App.g.cs
+C:\Visual Studio\WPF\PanelDemo\PanelDemo\obj\Debug\PanelDemo_MarkupCompile.cache
+C:\Visual Studio\WPF\PanelDemo\PanelDemo\obj\Debug\PanelDemo_MarkupCompile.lref
+C:\Visual Studio\WPF\PanelDemo\PanelDemo\obj\Debug\MainWindow.baml
+C:\Visual Studio\WPF\PanelDemo\PanelDemo\obj\Debug\PanelDemo.g.resources
+C:\Visual Studio\WPF\PanelDemo\PanelDemo\obj\Debug\PanelDemo.Properties.Resources.resources
+C:\Visual Studio\WPF\PanelDemo\PanelDemo\obj\Debug\PanelDemo.csproj.GenerateResource.cache
+C:\Visual Studio\WPF\PanelDemo\PanelDemo\obj\Debug\PanelDemo.csproj.CoreCompileInputs.cache
+C:\Visual Studio\WPF\PanelDemo\PanelDemo\obj\Debug\PanelDemo.exe
+C:\Visual Studio\WPF\PanelDemo\PanelDemo\obj\Debug\PanelDemo.pdb
