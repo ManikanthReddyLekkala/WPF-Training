@@ -23,6 +23,7 @@ namespace OneWayDataBinding
         public MainWindow()
         {
             InitializeComponent();
+            DataContext = Employee.GetEmployee();
         }
     }
 }
