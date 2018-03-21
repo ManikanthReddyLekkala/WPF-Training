@@ -20,9 +20,16 @@ namespace TwoWayDataBinding
     /// </summary>
     public partial class MainWindow : Window
     {
+        private Employee emp;
         public MainWindow()
         {
             InitializeComponent();
+            emp = new Employee()
+            {
+                Name ="Joe",
+                Title = "QA"
+            };
+            DataContext = emp;
         }
     }
 }
