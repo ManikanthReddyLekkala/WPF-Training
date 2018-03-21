@@ -23,6 +23,7 @@ namespace DataBindingLists
         public MainWindow()
         {
             InitializeComponent();
+            DataContext = Employee.GetEmployees();
         }
     }
 }

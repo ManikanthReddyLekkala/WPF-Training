@@ -7,6 +7,23 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
+        <ComboBox Name="Presidents" ItemsSource="{Binding}" FontSize="30" Height="50" Width="550">
+            <ComboBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal"
+                                Margin="2">
+                        <TextBlock Text="Name:"
+                                   Margin="2"/>
+                        <TextBlock Text="{Binding Name}"
+                                   Margin="2"/>
+                        <TextBlock Text="Title:"
+                                   Margin="2"/>
+                        <TextBlock Text="{Binding Title}"
+                                   Margin="2"/>
+                    </StackPanel>
+                </DataTemplate>
+            </ComboBox.ItemTemplate>
+        </ComboBox>
         
     </Grid>
 </Window>
