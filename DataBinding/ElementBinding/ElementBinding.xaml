@@ -7,6 +7,13 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <StackPanel Orientation="Horizontal">
+            <Slider Name="MySlider" 
+                    Minimum="0" 
+                    Maximum="100" 
+                    Width="300" />
+            <TextBlock Margin="5"
+                       Text="{Binding Value, ElementName=MySlider}" />
+        </StackPanel>
     </Grid>
 </Window>
